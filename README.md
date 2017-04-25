@@ -1,2 +1,2 @@
 # WXImagePreview
-简介：一个仿照系统相册大图预览效果的实现Demo。
+WXImagePreview，是一个通过自定义转场动画，实现系统相册照片预览效果的Demo。
