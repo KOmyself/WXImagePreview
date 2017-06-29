@@ -362,6 +362,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c2fa6d03-59a4-4ee3-9477-bc11d8a5eefc";
 				PROVISIONING_PROFILE_SPECIFIER = TestDevelopment;
+				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
@@ -380,6 +381,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c9ed361b-d86c-47e1-aa01-909bebefa8b5";
 				PROVISIONING_PROFILE_SPECIFIER = TestAdHoc;
+				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
